@@ -2,6 +2,8 @@
 
 💼 DevOps & Cloud Engineer based in Germany  
 ☁️ AWS Certified Solutions Architect – Associate  
+🎓 Staatlich geprüfter Informatiker (EQF Level 6, Germany)  
+🔎 Open to DevOps, Cloud, and IT Operations opportunities  
 
 ---
 
@@ -11,7 +13,7 @@ I am a DevOps & Cloud Engineer with a background in IT support, focused on desig
 - 🔹 Hands-on experience with AWS, Kubernetes, Terraform, and Docker  
 - 🔹 Built and deployed cloud-native applications using CI/CD pipelines  
 - 🔹 Strong interest in automation, monitoring, and system reliability  
-- 🔹 Currently seeking DevOps or Cloud Engineer opportunities  
+- 🔹 Experience in system administration and technical support environments  
 
 ---
 
@@ -44,4 +46,4 @@ Implemented infrastructure provisioning, automation, and monitoring using Terraf
 
 ---
 
-🚀 Open to professional opportunities in DevOps and Cloud Engineering
+🚀 Open to DevOps, Cloud Engineering, and IT Operations roles
