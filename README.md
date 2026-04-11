@@ -9,11 +9,9 @@
 
 ## 👨‍💻 About Me
 
-I am a DevOps & Cloud Engineer with a background in IT support, focused on building and automating scalable cloud infrastructure.
+I am a DevOps & Cloud Engineer with a background in IT support. I focus on building and automating cloud infrastructure to make applications more reliable, scalable, and easier to manage.
 
-I have hands-on experience working with AWS, Kubernetes, Terraform, and Docker to deploy and manage cloud-native applications. I enjoy improving system reliability, automating manual processes, and working with monitoring tools to maintain performance and availability.
-
-I am currently seeking an opportunity where I can contribute to real-world infrastructure and continue developing my skills in cloud and DevOps practices.
+I enjoy working with tools like AWS, Docker, Kubernetes, and Terraform to deploy applications and improve system performance. I am particularly interested in automation, monitoring, and making systems run smoothly with minimal manual effort.
 
 ---
 
@@ -23,9 +21,9 @@ I am currently seeking an opportunity where I can contribute to real-world infra
 - **Infrastructure as Code:** Terraform  
 - **Containers & Orchestration:** Docker, Kubernetes  
 - **CI/CD:** GitHub Actions, Jenkins  
-- **Monitoring & Observability:** Prometheus, Grafana, Node Exporter  
+- **Monitoring:** Prometheus, Grafana  
 - **Configuration Management:** Ansible  
-- **Scripting & OS:** Bash, Python, Linux (Ubuntu/Debian)  
+- **Scripting & OS:** Bash, Python, Linux  
 - **Version Control:** Git, GitHub  
 
 ---
@@ -33,26 +31,42 @@ I am currently seeking an opportunity where I can contribute to real-world infra
 ## 📌 Projects
 
 ### 🔹 Real-Time Voting Application on AWS EKS
-Deployed a 3-tier microservices application (Python, Node.js, .NET, Redis, PostgreSQL) on Amazon EKS using Kubernetes.  
-Implemented CI/CD pipelines with GitHub Actions, reducing manual deployment steps by ~80% and enabling faster, repeatable releases.
+
+This project simulates a real-world application where users can vote and see results in real time.
+
+I deployed a 3-tier microservices application (frontend, backend, and worker services) using Kubernetes on Amazon EKS. Each service was containerized with Docker and connected using Redis and PostgreSQL for data handling.
+
+To make deployments faster and more reliable, I implemented a CI/CD pipeline using GitHub Actions, which reduced manual deployment work by about 80%.
 
 ---
 
 ### 🔹 AWS Auto-Scaling Web Infrastructure
-Designed and provisioned a highly available multi-AZ architecture using Terraform, including ALB, Auto Scaling Groups, and private EC2 instances.  
-Configured scaling policies (70% scale-out / 30% scale-in) and validated performance under load using stress testing tools.
+
+In this project, I built a cloud infrastructure that can automatically adjust to user traffic.
+
+I used Terraform to create a multi-availability zone (Multi-AZ) architecture on AWS with an Application Load Balancer and Auto Scaling Group. The system automatically adds more servers when CPU usage is high and removes them when traffic is low.
+
+I tested the setup using stress tools to simulate real traffic and confirmed that the system scales automatically while maintaining performance.
 
 ---
 
 ### 🔹 DevOps Monitoring Solution
-Built a monitoring stack using Prometheus, Grafana, Node Exporter, and Docker to track system performance in real time.  
-Provisioned infrastructure with Terraform and automated configuration using Ansible, improving visibility and reducing issue detection time.
+
+This project focuses on monitoring system performance and detecting issues early.
+
+I set up a monitoring stack using Prometheus and Grafana to collect and visualize system metrics such as CPU, memory, and network usage. Node Exporter was used to gather data from Linux systems.
+
+Infrastructure was provisioned using Terraform and configured with Ansible, making the setup repeatable and automated.
 
 ---
 
 ### 🔹 End-to-End DevOps Deployment (Restauranty)
-Deployed a microservices-based application (Node.js + React) using Docker and Kubernetes.  
-Integrated CI/CD pipelines and implemented monitoring with Prometheus and Grafana to ensure system reliability.
+
+This project demonstrates a complete DevOps workflow from development to deployment.
+
+I containerized a microservices-based application (Node.js backend and React frontend) using Docker and deployed it on Kubernetes. I also implemented CI/CD pipelines to automate builds and deployments.
+
+Monitoring was added using Prometheus and Grafana to track application performance and ensure reliability.
 
 ---
 
