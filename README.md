@@ -11,7 +11,7 @@
 
 I am a DevOps & Cloud Engineer with a background in IT support. I focus on building and automating cloud infrastructure to make applications more reliable, scalable, and easier to manage.
 
-I enjoy working with tools like AWS, Docker, Kubernetes, and Terraform to deploy applications and improve system performance. I am particularly interested in automation, monitoring, and making systems run smoothly with minimal manual effort.
+I enjoy working with tools like AWS, Docker, Kubernetes, and Terraform to deploy applications and improve system performance. I am interested in automation, monitoring, and making systems run smoothly with minimal manual effort.
 
 ---
 
