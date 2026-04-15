@@ -32,39 +32,39 @@ Hands-on experience designing scalable infrastructure on AWS using Terraform, de
 
 ### 🔹 Real-Time Voting Application (AWS EKS)
 
-- Reduced deployment time by **~80% (2h → 25min)** using GitHub Actions
-- Supported **100+ concurrent users** with stable performance
-- Implemented rolling updates and service communication in Kubernetes
+- Reduced deployment time by **~80% (2h → 25min)** using GitHub Actions  
+- Supported **100+ concurrent users** with stable performance  
+- Implemented rolling updates and service communication in Kubernetes  
 
-**Tech:** AWS, Kubernetes, Docker, GitHub Actions
+**Tech:** AWS, Kubernetes, Docker, GitHub Actions  
 
 ---
 
 ### 🔹 AWS Auto-Scaling Infrastructure (Terraform)
 
-- Designed Auto Scaling system (**2–6 instances, 70%/30% CPU**)
-- Improved availability using ALB and private subnet architecture
-- Secured access with NAT Gateway and bastion host
+- Designed Auto Scaling system (**2–6 instances, 70%/30% CPU**)  
+- Improved availability using ALB and private subnet architecture  
+- Secured access with NAT Gateway and bastion host  
 
-**Tech:** AWS, Terraform, ALB, Auto Scaling
+**Tech:** AWS, Terraform, ALB, Auto Scaling  
 
 ---
 
 ### 🔹 DevOps Monitoring Solution
 
-- Improved issue detection using Prometheus and Grafana dashboards
-- Collected system metrics (CPU, memory, network) via Node Exporter
-- Automated provisioning using Terraform and Ansible
+- Improved issue detection using Prometheus and Grafana dashboards  
+- Collected system metrics (CPU, memory, network) via Node Exporter  
+- Automated provisioning using Terraform and Ansible  
 
-**Tech:** Prometheus, Grafana, Terraform, Ansible
+**Tech:** Prometheus, Grafana, Terraform, Ansible  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donaemeka&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donaemeka&show_icons=true&theme=default&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=donaemeka)
+![GitHub Streak](https://streak-stats.demolab.com?user=donaemeka&theme=default)
 
 ---
 
@@ -82,8 +82,8 @@ Hands-on experience designing scalable infrastructure on AWS using Terraform, de
 
 ## 📫 Contact
 
-LinkedIn: [linkedin.com/in/donatus-devops](https://linkedin.com/in/donatus-devops)  
-Portfolio: [donaemeka.github.io](https://donaemeka.github.io)  
+LinkedIn: https://linkedin.com/in/donatus-devops  
+Portfolio: https://donaemeka.github.io  
 Email: donaemeka92@gmail.com  
 
 ---
