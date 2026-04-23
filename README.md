@@ -95,7 +95,7 @@ Implemented a **full monitoring stack** on AWS using Prometheus, Grafana, Terraf
 
 ---
 
-### 🔹 Restauranty — End-to-End DevOps Deployment
+### 🔹 Restauranty - End-to-End DevOps Deployment
 Designed and deployed a **microservices-based application** with CI/CD and monitoring.
 
 - 🔄 Combined containerization, automation, and observability  
