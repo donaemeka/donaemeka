@@ -8,9 +8,7 @@
 
 ## 👨‍💻 Profile
 
-DevOps & Cloud Engineer with a background in IT operations and hands-on experience building **production-style cloud environments on AWS**.
-
-Focused on designing, deploying, and operating scalable infrastructure using **Kubernetes, Terraform, CI/CD pipelines, and observability tools** to improve system reliability, deployment consistency, and performance.
+DevOps & Cloud Engineer with a background in IT operations and hands-on experience building **production-style cloud environments on AWS**. Focused on designing, deploying, and operating scalable infrastructure using **Kubernetes, Terraform, CI/CD pipelines, and observability tools** to improve system reliability, deployment consistency, and performance.
 
 - 🚀 Improved deployment efficiency by ~80% (2h → 25min) using CI/CD automation  
 - 🔧 Reduced issue resolution time from 2 days to under 4 hours through monitoring and troubleshooting  
