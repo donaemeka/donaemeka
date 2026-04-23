@@ -1,91 +1,121 @@
 # Donatus Emeka Anyalebechi
 
-DevOps & Cloud Engineer | AWS Certified | Germany  
-Open to Junior DevOps, Cloud Engineering, and IT Operations roles  
+💼 DevOps & Cloud Engineer | AWS Certified Solutions Architect – Associate  
+☁️ Kubernetes • Terraform • CI/CD • Monitoring  
+📍 Duisburg, Germany | Open to roles in EU  
 
 ---
 
 ## 👨‍💻 Profile
 
-DevOps & Cloud Engineer with a background in IT operations, experienced in supporting Linux and Windows systems in real-world environments.
+DevOps & Cloud Engineer with a background in IT operations and hands-on experience building **production-style cloud environments on AWS**.
 
-Improved deployment efficiency by **~80% (2h → 25min)** through CI/CD automation and reduced incident resolution time from **2 days to under 4 hours** through structured monitoring and troubleshooting.
+Focused on designing, deploying, and operating scalable infrastructure using **Kubernetes, Terraform, CI/CD pipelines, and observability tools** to improve system reliability, deployment consistency, and performance.
 
-Hands-on experience designing scalable infrastructure on AWS using Terraform, deploying containerized applications with Docker and Kubernetes, and implementing monitoring with Prometheus and Grafana.
+- 🚀 Improved deployment efficiency by ~80% (2h → 25min) using CI/CD automation  
+- 🔧 Reduced issue resolution time from 2 days to under 4 hours through monitoring and troubleshooting  
+- ⚙️ Built and operated microservices-based systems on AWS EKS  
 
 ---
 
 ## 🛠️ Core Skills
 
-- **Cloud:** AWS (EKS, EC2, S3, VPC, IAM)
-- **Infrastructure as Code:** Terraform
-- **Containers:** Docker, Kubernetes
-- **CI/CD:** GitHub Actions, Jenkins
-- **Monitoring:** Prometheus, Grafana, Node Exporter
-- **Configuration Management:** Ansible
-- **Systems:** Linux (Ubuntu/Debian), Bash, Python
-- **Networking:** TCP/IP, DNS, SSH, VPC, Subnets
+**Cloud & Infrastructure**  
+AWS (EKS, EC2, S3, VPC, IAM), Terraform  
+
+**Containers & Orchestration**  
+Docker, Kubernetes, Helm  
+
+**CI/CD & Automation**  
+GitHub Actions, Jenkins  
+
+**Monitoring & Observability**  
+Prometheus, Grafana, Node Exporter  
+
+**Configuration Management**  
+Ansible  
+
+**Systems & Scripting**  
+Linux (Ubuntu/Debian), Bash, Python  
+
+**Networking**  
+TCP/IP, DNS, SSH, VPC, Subnets  
 
 ---
 
-## 📌 Selected Projects
+## 📌 Production-Style DevOps Projects (AWS & Kubernetes)
+
+### 🔹 SaaS Microservices Platform on AWS EKS
+Built and deployed a **multi-tenant microservices platform** on AWS EKS using Terraform, Kubernetes, Docker, and GitHub Actions.
+
+- ⚡ Reduced deployment time from ~2 hours to ~2 minutes with CI/CD automation  
+- 🧩 Solved real Kubernetes issues (scheduling, storage, service communication)  
+- 📦 Implemented scalable architecture with persistent storage (EBS)  
+
+**Tech:** AWS EKS, Terraform, Kubernetes, Docker, GitHub Actions, PostgreSQL  
+
+👉 [View Project](https://github.com/donaemeka/SaaS-Microservices-Platform-on-AWS-EKS)
+
+---
 
 ### 🔹 Real-Time Voting Application (AWS EKS)
+Deployed a **3-tier microservices application** on AWS EKS with automated delivery pipelines.
 
-- Reduced deployment time by **~80% (2h → 25min)** using GitHub Actions  
-- Supported **100+ concurrent users** with stable performance  
-- Implemented rolling updates and service communication in Kubernetes  
+- 🚀 Reduced deployment time by ~80% (2h → 25min)  
+- 📊 Supported 100+ concurrent users with stable performance  
+- 🔄 Implemented rolling updates for zero-downtime deployments  
 
-**Tech:** AWS, Kubernetes, Docker, GitHub Actions  
+**Tech:** AWS EKS, Kubernetes, Docker, Terraform, GitHub Actions  
+
+👉 [View Project](https://github.com/donaemeka/Real-Time-Voting-Application-on-AWS-EKS)
 
 ---
 
-### 🔹 AWS Auto-Scaling Infrastructure (Terraform)
+### 🔹 AWS Auto-Scaling Web Infrastructure
+Built a **highly available AWS infrastructure** with dynamic scaling using Terraform and CloudWatch.
 
-- Designed Auto Scaling system (**2–6 instances, 70%/30% CPU**)  
-- Improved availability using ALB and private subnet architecture  
-- Secured access with NAT Gateway and bastion host  
+- 📈 Designed auto-scaling (2–6 instances) based on CPU thresholds  
+- 🌐 Implemented multi-AZ architecture with ALB and private subnets  
+- 🔐 Secured access using NAT Gateway and bastion host  
 
-**Tech:** AWS, Terraform, ALB, Auto Scaling  
+**Tech:** AWS, Terraform, EC2, ALB, Auto Scaling, CloudWatch  
+
+👉 [View Project](https://github.com/donaemeka/Aws-Auto-Scaling-Webapp)
 
 ---
 
 ### 🔹 DevOps Monitoring Solution
+Implemented a **full monitoring stack** on AWS using Prometheus, Grafana, Terraform, and Ansible.
 
-- Improved issue detection using Prometheus and Grafana dashboards  
-- Collected system metrics (CPU, memory, network) via Node Exporter  
-- Automated provisioning using Terraform and Ansible  
+- 📊 Built dashboards for CPU, memory, and network monitoring  
+- ⚙️ Automated infrastructure provisioning and configuration  
+- 🔍 Improved visibility and faster issue detection  
 
-**Tech:** Prometheus, Grafana, Terraform, Ansible  
+**Tech:** Prometheus, Grafana, Terraform, Ansible, Docker, AWS  
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donaemeka&show_icons=true&theme=default&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=donaemeka&theme=default)
+👉 [View Project](https://github.com/donaemeka/Monitoring-DevOps-Solution)
 
 ---
 
-## 🧰 Tools & Technologies
+### 🔹 Restauranty — End-to-End DevOps Deployment
+Designed and deployed a **microservices-based application** with CI/CD and monitoring.
 
-![AWS](https://img.shields.io/badge/AWS-orange)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
-![Terraform](https://img.shields.io/badge/Terraform-purple)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black)
-![Prometheus](https://img.shields.io/badge/Prometheus-orange)
-![Grafana](https://img.shields.io/badge/Grafana-yellow)
+- 🔄 Combined containerization, automation, and observability  
+- 📦 Deployed services with Kubernetes and Docker  
+- 📊 Integrated monitoring with Prometheus and Grafana  
+
+**Tech:** Kubernetes, Docker, GitHub Actions, Prometheus, Grafana  
+
+👉 [View Project](https://github.com/donaemeka/Restauranty-Devops-End-To-End-Deployment)
 
 ---
 
 ## 📫 Contact
 
-LinkedIn: https://linkedin.com/in/donatus-devops  
-Portfolio: https://donaemeka.github.io  
-Email: donaemeka92@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/donatus-devops  
+🌐 Portfolio: https://donaemeka.github.io  
+📧 Email: donaemeka92@gmail.com  
 
 ---
 
-Based in Germany • Open to relocation • Eligible to work in Germany
+💡 Open to DevOps, Cloud Engineering, IT Operations, and Infrastructure roles in Germany and the EU.
