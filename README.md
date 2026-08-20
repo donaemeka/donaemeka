@@ -3,9 +3,8 @@
 DevOps & Cloud Engineer · Duisburg, Germany
 Open to DevOps, Cloud Engineering and SRE roles in the EU.
 German A2 · English C1
-**AZ-400 · AWS SAA · AZ-104 · Kubernetes · Terraform · Bicep**
 
----
+**AZ-400 · AWS SAA · AZ-104 · Kubernetes · Terraform · Bicep**
 
 ---
 
