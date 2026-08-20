@@ -18,7 +18,7 @@ AWS · Azure · Docker · Kubernetes · Terraform · Bicep · GitHub Actions · 
 
 ## Certifications
 
-Microsoft Certified DevOps Engineer Expert (AZ-400) · AWS Certified Solutions Architect Associate · AZ-104 · Staatlich geprüfter Informatiker (EQF Level 6)
+Microsoft Certified DevOps Engineer Expert (AZ-400) · AWS Certified Solutions Architect Associate · AZURE-104 · Staatlich geprüfter Informatiker (EQF Level 6)
 
 ---
 
