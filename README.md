@@ -1,10 +1,10 @@
 # Donatus Emeka Anyalebechi
 
-DevOps & Cloud Engineer · Duisburg, Germany
+DevOps & Cloud Engineer
 
 Open to DevOps, Cloud Engineering and SRE roles in the EU.
 
-German A2 · English C1
+German A2 · English C2
 
 **AZ-400 · AWS SAA · AZ-104 · Kubernetes · Terraform · Bicep**
 
