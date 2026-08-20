@@ -1,5 +1,4 @@
 
-**AZ-400 · AWS SAA · AZ-104 · Kubernetes · Terraform · Bicep**
 
 ---
 
